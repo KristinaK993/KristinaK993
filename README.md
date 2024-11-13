@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name] 
+# 👋 Hello! I'm Kristina! 
 
 🎓 .NET Student | 🌍 Gothenburg, Sweden | 🎨 Console UI Enthusiast
 
