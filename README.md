@@ -29,6 +29,7 @@ I'm a passionate .NET student building polished and interactive console applicat
 - **Error Handling** ⚠️ - Using `try-catch` blocks to handle errors gracefully.
 - **JSON Manipulation** 📂 - Loading and saving data in JSON for storage and configuration.
 - **Generic Classes** 📋 - Developing reusable, type-safe data structures in C#.
+- **SQL** 
 
 ---
 
