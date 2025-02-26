@@ -34,12 +34,20 @@ I'm a passionate .NET student building polished and interactive console applicat
 ---
 
 ## 🔥 Project Spotlight
+🚗 ParkMate 2.0 – Smart Parking Management
 
-### 🎉 Quiz App
-One of my recent projects is a **Quiz App** where I use **Spectre.Console** and **Figgle** to make the console experience engaging and stylish! Here’s what it includes:
-- Dynamic questions loaded from a JSON file.
-- User-friendly menus styled with **Spectre.Console** for modern, intuitive navigation.
-- Custom headers rendered with **Figgle** to give the app a unique look.
+One of my latest projects is ParkMate 2.0, a console-based parking management system designed with Spectre.Console for a sleek and user-friendly experience! This application streamlines the process of parking registration, tracking, and administration. Here’s what it offers:
+
+✅ Real-time Parking Tracking – Users can start, view, and end parking sessions dynamically.
+✅ Secure Login System – Supports both user and admin roles, ensuring secure access.
+✅ Admin Dashboard – Admins can manage users, view all parking sessions, and promote users to admin status.
+✅ Car Management – Users can register and manage multiple vehicles effortlessly.
+✅ Payment Integration – Choose between Swish, Credit Card, or Invoice when parking.
+✅ Data Persistence – Parking history is stored and accessible for long-term tracking.
+
+With Spectre.Console, the UI is enhanced with interactive menus, styled tables, and intuitive prompts, making it an engaging experience for users. Whether you're a casual parker or an admin overseeing a parking facility, ParkMate 2.0 makes parking management effortless! 🚀
+
+#CSharp #SpectreConsole #ConsoleApp #ParkingManagement
 
 ---
 
