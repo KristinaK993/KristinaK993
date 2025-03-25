@@ -1,8 +1,8 @@
 # 👋 Hello! I'm Kristina! 
 
-🎓 .NET Student | 🌍 Gothenburg, Sweden | 🎨 Console UI Enthusiast
+🎓 .NET Student | 🌍 Gothenburg, Sweden | 💻 Passionate Developer
 
-I'm a passionate .NET student building polished and interactive console applications with **Spectre.Console** and **Figgle**. I’m working on fun projects like quiz apps, and I’m always experimenting with new features to level up my skills!
+I'm a dedicated .NET student with a strong interest in building clean, functional applications. I enjoy solving real-world problems through code, and I'm constantly learning and exploring new technologies – recently diving into REST APIs and backend development. I focus on writing maintainable code and building projects that combine practicality with solid technical foundations.
 
 ---
 
@@ -30,6 +30,7 @@ I'm a passionate .NET student building polished and interactive console applicat
 - **JSON Manipulation** 📂 - Loading and saving data in JSON for storage and configuration.
 - **Generic Classes** 📋 - Developing reusable, type-safe data structures in C#.
 - **SQL** 🏗️ - Structuring relational databases efficiently for scalability and performance.
+- **REST APIs** – Integrating external APIs and working with HttpClient for GET/POST requests.
 
 ---
 
