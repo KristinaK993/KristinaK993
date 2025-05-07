@@ -55,7 +55,7 @@ With Spectre.Console, the UI is enhanced with interactive menus, styled tables, 
 ## 📫 Connect with Me!
 - LinkedIn : www.linkedin.com/in/kristina-kostic-065390338
 - 📧 Email: KristinaKostic93@hotmail.com
-
+- My very own Frontend page : https://kristinak993.github.io/AboutMe/
 ---
 
 **Let’s build something great together!** 😊💻
