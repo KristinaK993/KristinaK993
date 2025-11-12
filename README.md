@@ -15,7 +15,7 @@ I'm a dedicated .NET student with a strong interest in building clean, functiona
 ### 🛠 Tools & Libraries
 - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-- ![Spectre.Console](https://img.shields.io/badge/-Spectre.Console-2E2E2E?logo=console&logoColor=white&style=for-the-badge) ![Figgle](https://img.shields.io/badge/-Figgle-2E2E2E?logo=ascii&style=for-the-badge)
+
 
 ---
 
